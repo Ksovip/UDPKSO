@@ -213,7 +213,7 @@ def login():
 <body class="min-h-screen grid place-items-center bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white">
 <div class="w-[360px] bg-slate-800/70 backdrop-blur p-6 rounded-2xl shadow-2xl ring-1 ring-white/10">
   <div class="flex items-center gap-2 mb-3">
-    <img src="https://raw.githubusercontent.com/JVPNSHOP/ZIVPN/main/1761213901286.png" alt="Logo" class="h-8 w-8">
+    <img src="https://raw.githubusercontent.com/KYAWSOEOO8/kso-script/main/icon.png" alt="Logo" class="h-8 w-8">
     <h2 class="text-xl font-bold">ZIVPN Login</h2>
   </div>
   <form method=post class="space-y-3">
