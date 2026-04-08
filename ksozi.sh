@@ -4,7 +4,7 @@ cat > zi.sh <<'BASH'
 # - Save = config.json write only (no reload/restart)
 # - Apply = reload only (never restart)
 # - UDP stability: conntrack timeouts ++ & DNAT->REDIRECT
-# Script By: JueHtet | Maintainer patch by: helper
+# Script By: KSOZI | Maintainer patch by: helper
 # + Added: zivpn-adminctl (menu to change admin user/pass without reset)
 # + Added: zivpn-uninstall.sh (safe uninstall; keep data by default)
 
@@ -275,7 +275,7 @@ function closeNotice(id){const el=document.getElementById(id); if(el) el.remove(
 </head>
 <body class="bg-slate-50">
 <div class="fab">
-  <a href="https://t.me/Pussy1990" target="_blank" rel="noopener" class="bg-sky-600 hover:bg-sky-500 text-white" title="Telegram">
+  <a href="https://m.me/kyawsoe.oo.1292019" target="_blank" rel="noopener" class="bg-sky-600 hover:bg-sky-500 text-white" title="Telegram">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M9.04 15.47l-.39 5.49c.56 0 .8-.24 1.09-.53l2.62-2.52 5.43 3.97c1 .55 1.71.26 1.98-.93ల3.6-16.85c.32-1.5-.54-2.09-1.52-1.73L1.16 9.64c-1.46.57-1.44 1.39-.25 1.76l5.34 1.66L19.36 6.1c.62-.41 1.18-.18.72.23"/></svg>
   </a>
   <a href="/logout" class="bg-slate-700 hover:bg-slate-600 text-white" title="Logout">
@@ -286,7 +286,7 @@ function closeNotice(id){const el=document.getElementById(id); if(el) el.remove(
 <header class="bg-gradient-to-r from-slate-900 to-slate-800 text-white">
   <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
     <div class="flex items-center gap-2">
-      <img src="https://raw.githubusercontent.com/JVPNSHOP/ZIVPN/main/1761213901286.png" alt="Logo" class="h-8 w-8">
+      <img src="https://raw.githubusercontent.com/KYAWSOEOO8/kso-script/main/icon.png" alt="Logo" class="h-8 w-8">
       <h1 class="text-2xl font-extrabold tracking-tight">ZIVPN</h1>
     </div>
     <div></div>
